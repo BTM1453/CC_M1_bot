@@ -123,9 +123,9 @@ FɪʟᴇSɪᴢᴇ : {file_size}
 ➲ <a href="https://t.me/+fgT9ogX7z144NjM1">Latest_Bot_Updates</a><br>
 ╚═══ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═══╝
 
-⚠️ <b>This file will be deleted from here within 1 minute as it has copyright ... !!!</b>
+⚠️ <b>This file will be deleted from here within 5 minute as it has copyright ... !!!</b>
 
-<b>കോപ്പിറൈറ്റ് ഉള്ളതുകൊണ്ട് ഫയൽ 1 മിനിറ്റിനുള്ളിൽ ഇവിടെനിന്നും ഡിലീറ്റ് ആകുന്നതാണ് അതുകൊണ്ട് ഇവിടെ നിന്നും മറ്റെവിടെക്കെങ്കിലും മാറ്റിയതിന് ശേഷം ഡൗൺലോഡ് ചെയ്യുക!</b>
+<b>കോപ്പിറൈറ്റ് ഉള്ളതുകൊണ്ട് ഫയൽ 5 മിനിറ്റിനുള്ളിൽ ഇവിടെനിന്നും ഡിലീറ്റ് ആകുന്നതാണ് അതുകൊണ്ട് ഇവിടെ നിന്നും മറ്റെവിടെക്കെങ്കിലും മാറ്റിയതിന് ശേഷം ഡൗൺലോഡ് ചെയ്യുക!</b>
 """
 
     
