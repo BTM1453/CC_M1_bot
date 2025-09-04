@@ -117,11 +117,11 @@ Added By - {}
     CUSTOM_FILE_CAPTION = """📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 FɪʟᴇSɪᴢᴇ : {file_size}
 
-╔═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╗ 
+╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗ 
 ➲ <a href="https://t.me/CINEMA_COMPANYE_Backup">𝐂𝐈𝐍𝐄𝐌𝐀 𝐂𝐎𝐌𝐏𝐀𝐍𝐘</a><br>
 ➲ <a href="https://t.me/+JObo3SXOiZRlNzll">𝐅𝐑𝐈𝐃𝐀𝐘 𝐅𝐈𝐋𝐈𝐌 𝐇𝐎𝐔𝐒𝐄</a><br>
 ➲ <a href="https://t.me/+fgT9ogX7z144NjM1">𝐋𝐀𝐓𝐄𝐒𝐓 𝐁𝐎𝐓 𝐔𝐏𝐃𝐀𝐓𝐄</a><br>
-╚═════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ═════╝
+╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝
 
 ⚠️ <b>This file will be deleted from here within 1 minute as it has copyright ... !!!</b>
 
