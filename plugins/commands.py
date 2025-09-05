@@ -175,9 +175,11 @@ async def start(client, message):
     if message.chat.type in [enums.ChatType.GROUP, enums.ChatType.SUPERGROUP]:
         buttons = [
               [
-                  InlineKeyboardButton(f'ᴏᴛᴛ ᴜᴘᴅᴀᴛᴇs​', url='https://t.me/new_ott_movies3'),
-                  InlineKeyboardButton(f'ᴍᴀɪɴ ᴄʜᴀɴɴᴇʟ', url='https://t.me/mn_movies2'),
-                  InlineKeyboardButton('ʀᴇᴘᴏ', url='https://github.com/mn-bots/ShobanaFilterBot')
+                  InlineKeyboardButton(f'⚓ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Gʀᴏᴜᴩ ⚓', url='https://t.me/CINEMA_COMPANYE_Backup'),
+
+ InlineKeyboardButton(f'🖥️ Oᴛᴛ Uᴩᴅᴀᴛᴇꜱ Cʜᴀɴɴᴇʟ 🖥️', url='https://t.me/+JObo3SXOiZRlNzll')
+
+InlineKeyboardButton(f'⚙️ Bᴏᴛ Uᴩᴅᴀᴛᴇꜱ Cʜᴀɴɴᴇʟ ⚙️', url='https://t.me/+fgT9ogX7z144NjM1'),
          ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -234,10 +236,15 @@ async def start(client, message):
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
             InlineKeyboardButton('+ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs +', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
-            ],[
-             InlineKeyboardButton('⚓ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Gʀᴏᴜᴩ ⚓', url='https://t.me/CINEMA_COMPANYE_Backup'),
-        ],[
-            InlineKeyboardButton('🖥️ Oᴛᴛ Uᴩᴅᴀᴛᴇꜱ Cʜᴀɴɴᴇʟ 🖥️', url='https://t.me/+JObo3SXOiZRlNzll')
+              ],[
+            InlineKeyboardButton(f'⚙️ Bᴏᴛ Uᴩᴅᴀᴛᴇꜱ Cʜᴀɴɴᴇʟ ⚙️', url='https://t.me/+fgT9ogX7z144NjM1'), 
+             
+            InlineKeyboardButton(f'⚔️ Cɪɴᴇᴍᴀ Cᴏᴍᴩᴀɴʏ Uᴩᴅᴀᴛᴇꜱ ⚔️', url='https://t.me/TBM_Bot_Updates'),
+              ],[
+             
+            InlineKeyboardButton(f'⚓ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Gʀᴏᴜᴩ ⚓', url='https://t.me/CINEMA_COMPANYE_Backup'),
+       
+            InlineKeyboardButton(f'🖥️ Oᴛᴛ Uᴩᴅᴀᴛᴇꜱ Cʜᴀɴɴᴇʟ 🖥️', url='https://t.me/+JObo3SXOiZRlNzll')
          ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_text(
