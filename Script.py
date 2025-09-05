@@ -115,8 +115,13 @@ Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
 """
-    RESULT_TXT="""<blockquote> Hey,     </blockquote>
-<blockquote>Jᴜsᴛ Sᴇᴇ Wʜᴀᴛ I Found Fᴏʀ Yᴏᴜʀ Qᴜᴇʀʏ </blockquote>"""
+    RESULT_TXT = """
+<b>Search Query:</b> <code>{query}</code>
+<b>Total Results:</b> <code>{total_results}</code>
+<b>Page:</b> <code>{page}/{total_pages}</code>
+
+🔻Tap on the file button and then start to download.🔻
+"""
 
     CUSTOM_FILE_CAPTION = """📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 FɪʟᴇSɪᴢᴇ : {file_size}
