@@ -42,8 +42,8 @@ AUTH_GROUPS = [int(ch) for ch in auth_grp.split()] if auth_grp else None
 
 # MongoDB information
 DATABASE_URI = environ.get('DATABASE_URI', "mongodb+srv://mrzbotbot_db_user:JVmkQNnOuLTNVPgD@cluster0.08qriom.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
-DATABASE_NAME = environ.get('DATABASE_NAME', "Cluster0")
-COLLECTION_NAME = environ.get('COLLECTION_NAME', 'mn_files')
+DATABASE_NAME = environ.get('DATABASE_NAME', "mrzbotbot_db_user")
+COLLECTION_NAME = environ.get('COLLECTION_NAME', 'mrzbotbot_db_user')
 
 # File Channel Settings
 FILE_CHANNELS = [int(ch) for ch in environ.get('FILE_CHANNELS', '-1002288998123').split()]
