@@ -115,8 +115,8 @@ Group = {}(<code>{}</code>)
 Total Members = <code>{}</code>
 Added By - {}
 """
-        RESULT_TXT="""<blockquote> Hey,     </blockquote>
-<blockquote>Tap on the file button and then start to download</blockquote>"""
+            RESULT_TXT="""<blockquote> Hey,     </blockquote>
+<blockquote>Jᴜsᴛ Sᴇᴇ Wʜᴀᴛ I Found Fᴏʀ Yᴏᴜʀ Qᴜᴇʀʏ </blockquote>"""
 
     CUSTOM_FILE_CAPTION = """📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 FɪʟᴇSɪᴢᴇ : {file_size}
