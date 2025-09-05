@@ -116,7 +116,7 @@ Total Members = <code>{}</code>
 Added By - {}
 """
         RESULT_TXT="""<blockquote> Hey,     </blockquote>
-<blockquote>👇 Tap on the file button and then start to download 👇</blockquote>"""
+<blockquote>Tap on the file button and then start to download</blockquote>"""
 
     CUSTOM_FILE_CAPTION = """📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
 FɪʟᴇSɪᴢᴇ : {file_size}
