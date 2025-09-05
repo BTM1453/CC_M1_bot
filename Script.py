@@ -120,7 +120,7 @@ Added By - {}
 <b>Total Results:</b> <code>{total_results}</code>
 <b>Page:</b> <code>{page}/{total_pages}</code>
 
-🔻Tap on the file button and then start to download.🔻
+👇Tap on the file button and then start to download.👇
 """
 
     CUSTOM_FILE_CAPTION = """📂Fɪʟᴇɴᴀᴍᴇ : {file_name}
