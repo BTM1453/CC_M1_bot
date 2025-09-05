@@ -31,7 +31,7 @@ class Media(Document):
 
     class Meta:
         indexes = ('$file_name', )
-        collection_name = mrzbotbot_db_user
+        collection_name = COLLECTION_NAME"mrzbotbot_db_user"
 
 
 async def save_file(media):
