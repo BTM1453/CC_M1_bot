@@ -197,6 +197,7 @@ async def start(client, message):
               ],[
             InlineKeyboardButton(f'⚙️ Bᴏᴛ Uᴩᴅᴀᴛᴇꜱ Cʜᴀɴɴᴇʟ ⚙️', url='https://t.me/+fgT9ogX7z144NjM1'), 
              
+            InlineKeyboardButton(f'⚔️ Cɪɴᴇᴍᴀ Cᴏᴍᴩᴀɴʏ Uᴩᴅᴀᴛᴇꜱ ⚔️', url='https://t.me/TBM_Bot_Updates'),
               ],[
              
             InlineKeyboardButton(f'⚓ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Gʀᴏᴜᴩ ⚓', url='https://t.me/CINEMA_COMPANYE_Backup'),
