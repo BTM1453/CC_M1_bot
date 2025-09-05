@@ -179,7 +179,7 @@ async def start(client, message):
 
  InlineKeyboardButton(f'🖥️ Oᴛᴛ Uᴩᴅᴀᴛᴇꜱ Cʜᴀɴɴᴇʟ 🖥️', url='https://t.me/+JObo3SXOiZRlNzll')
 
-InlineKeyboardButton(f'⚙️ Bᴏᴛ Uᴩᴅᴀᴛᴇꜱ Cʜᴀɴɴᴇʟ ⚙️', url='https://t.me/+fgT9ogX7z144NjM1'),
+ InlineKeyboardButton(f'⚙️ Bᴏᴛ Uᴩᴅᴀᴛᴇꜱ Cʜᴀɴɴᴇʟ ⚙️', url='https://t.me/+fgT9ogX7z144NjM1'),
          ]
             ]
         reply_markup = InlineKeyboardMarkup(buttons)
