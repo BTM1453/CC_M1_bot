@@ -193,11 +193,11 @@ async def start(client, message):
         await client.send_message(LOG_CHANNEL, script.LOG_TEXT_P.format(message.from_user.id, message.from_user.mention))
     if len(message.command) != 2:
         buttons = [[
-            InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('+ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs +', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-             InlineKeyboardButton('𝗠𝗢𝗩𝗜𝗘 𝗦𝗘𝗔𝗥𝗖𝗛 𝗚𝗥𝗢𝗨𝗣', url='https://t.me/CINEMA_COMPANYE_Backup'),
+             InlineKeyboardButton('⚓ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Gʀᴏᴜᴩ ⚓', url='https://t.me/CINEMA_COMPANYE_Backup'),
         ],[
-            InlineKeyboardButton('𝗢𝗧𝗧 𝗨𝗣𝗗𝗔𝗧𝗘 𝗖𝗛𝗘𝗡𝗡𝗘𝗟', url='https://t.me/+JObo3SXOiZRlNzll')
+            InlineKeyboardButton('🖥️ Oᴛᴛ Uᴩᴅᴀᴛᴇꜱ Cʜᴀɴɴᴇʟ 🖥️', url='https://t.me/+JObo3SXOiZRlNzll')
          ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         
@@ -229,11 +229,11 @@ async def start(client, message):
         return
     if len(message.command) == 2 and message.command[1] in ["subscribe", "error", "okay", "help"]:
         buttons = [[
-            InlineKeyboardButton('ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
+            InlineKeyboardButton('+ ᴀᴅᴅ ᴍᴇ ᴛᴏ ʏᴏᴜʀ ɢʀᴏᴜᴘs +', url=f'http://t.me/{temp.U_NAME}?startgroup=true')
             ],[
-             InlineKeyboardButton('𝗠𝗢𝗩𝗜𝗘 𝗦𝗘𝗔𝗥𝗖𝗛 𝗚𝗥𝗢𝗨𝗣', url='https://t.me/CINEMA_COMPANYE_Backup'),
+             InlineKeyboardButton('⚓ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Gʀᴏᴜᴩ ⚓', url='https://t.me/CINEMA_COMPANYE_Backup'),
         ],[
-            InlineKeyboardButton('𝗢𝗧𝗧 𝗨𝗣𝗗𝗔𝗧𝗘 𝗖𝗛𝗘𝗡𝗡𝗘𝗟', url='https://t.me/+JObo3SXOiZRlNzll')
+            InlineKeyboardButton('🖥️ Oᴛᴛ Uᴩᴅᴀᴛᴇꜱ Cʜᴀɴɴᴇʟ 🖥️', url='https://t.me/+JObo3SXOiZRlNzll')
          ]]
         reply_markup = InlineKeyboardMarkup(buttons)
         await message.reply_photo(
