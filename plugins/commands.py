@@ -176,9 +176,7 @@ async def start(client, message):
         buttons = [
               [
                   InlineKeyboardButton(f'⚓ Mᴏᴠɪᴇ Sᴇᴀʀᴄʜ Gʀᴏᴜᴩ ⚓', url='https://t.me/CINEMA_COMPANYE_Backup'),
-
  InlineKeyboardButton(f'🖥️ Oᴛᴛ Uᴩᴅᴀᴛᴇꜱ Cʜᴀɴɴᴇʟ 🖥️', url='https://t.me/+JObo3SXOiZRlNzll')
-
  InlineKeyboardButton(f'⚙️ Bᴏᴛ Uᴩᴅᴀᴛᴇꜱ Cʜᴀɴɴᴇʟ ⚙️', url='https://t.me/+fgT9ogX7z144NjM1'),
          ]
             ]
